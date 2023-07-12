@@ -1,6 +1,6 @@
 public class Topic33 {
     public static void main(String[] args) {
-        LaunchPage pagepage=new LaunchPage();
+        LaunchPage page=new LaunchPage();
         System.out.println("hello");
     }
 }
