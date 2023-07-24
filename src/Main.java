@@ -11,6 +11,7 @@ import java.util.InputMismatchException;
 //polymorphism = poly mean many morph means form
 public class Main {
     public static void main(String[] args) {
-     new Jtextframe();
+     new RadioButtonFrame();
+
     }
 }
